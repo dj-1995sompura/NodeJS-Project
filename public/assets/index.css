@@ -1,0 +1,16 @@
+/* common selector */
+
+/* style for table */
+section .table>tbody {
+    vertical-align: middle;
+}
+tbody img {
+    max-width: 200px;
+}
+.action-btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
